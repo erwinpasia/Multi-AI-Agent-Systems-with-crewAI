@@ -30,7 +30,7 @@ decorator==5.1.1
 Deprecated==1.2.14
 deprecation==2.1.0
 distro==1.9.0
-dnspython==2.6.1
+dnspython==2.9.2
 docstring-parser==0.15
 docx2txt==0.8
 email_validator==2.1.1
